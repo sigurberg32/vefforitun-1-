@@ -1,0 +1,27 @@
+/grunnstillingar sem erfast */
+body {
+    font-family: Arial, sans-serif;
+    color: #e0f7fa;
+    background-color: #f11;
+    line-height: 1.6;
+}
+
+/fyrirsagnir */
+h1, h2, h3 {
+    color:hsl(9, 65%, 43%);
+}
+
+/* valmynd */
+nav a {
+    text-decoration: underline;
+    color: #111111;
+}
+
+/* class selector fyrir sérstakan kafla */
+.inngangur {
+    background-color: #2f2f2f;
+}
+
+.inngangur p {
+    font-size: 1.1rem;
+}
