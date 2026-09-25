@@ -10,11 +10,12 @@ body {
         max-width: 370px;
         margin: 10px;
      }
+     
     
     .cards {
         display: flex;
         gap: 15px;
-        justify-content: center 
+        justify-content: center;
         max-width: 1000px;
         margin: 20px auto;
      }   
@@ -27,5 +28,13 @@ body {
         margin: 10px;
      }
     .card h2 {
-        :margin-top: 0px;
+        margin-top: 0px;
       }   
+
+
+
+.color-line {
+    width: 100vw;     
+    height: 30px;      
+    background-color: rgb(149, 187, 169);
+}
