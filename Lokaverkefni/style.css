@@ -1,0 +1,88 @@
+
+* {
+    box-sizing: border-box;
+}
+
+header{
+    color: rgb(248, 16, 16);
+    background-color: black;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 14px;
+    padding-left: 33px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+button{
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    padding: 6px;
+    border-color: rgb(248, 16, 16);
+    border-radius: 5px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+body{
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.lightmode2{
+    background-color: white;
+    border-color: pink;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.lightmode{
+    background-color: white;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.texti{
+    margin: 20px;
+}
+
+.box-kassi{
+    display: flex; 
+    gap: 20px;
+
+}
+
+.kassi2 {
+    border: 4px solid #ccc; 
+    padding: 286px; 
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: rgb(248, 16, 16);
+    background-color: black;
+}
+
+.kassi1 {
+    border: 4px solid #ccc; 
+    padding: 286px; 
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    border-color: rgb(248, 16, 16);
+    background-color: black;
+}
+
+.kassi3{
+    border: 0px solid #ccc; 
+    padding: 20px; 
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color: black;
+}

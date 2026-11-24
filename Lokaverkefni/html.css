@@ -1,0 +1,49 @@
+* {
+    box-sizing: border-box;
+}
+
+header{
+    color: rgb(248, 16, 16);
+    background-color: black;
+    border-radius: 10px;
+    padding: 9px;
+    margin: 14px;
+    padding-left: 33px;
+    display: flex;
+    align-items: center;
+    gap: 60px;
+}
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+.box-kassi{
+    display: flex; 
+    gap: 20px;
+}
+
+.kassi1 {
+    border: 0px solid #ccc; 
+    padding: 286px; 
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+.kassi2 {
+    border: 0px solid #ccc; 
+    padding: 286px; 
+    margin: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: black;
+}
+
+body{
+    background-color: rgb(27, 27, 27);
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,52 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: rgb(235, 199, 115);
+    color: rgb(0, 0, 0);
+}
+
+main {
+    width: min(90%,700px);
+    margin: 60px auto;
+    padding: 24px;
+    background: rgb(228, 214, 169);
+    border-radius: 12px;
+}
+
+h1{
+    margin-top: 0;
+}
+
+button,
+input {
+    font: inherit;
+    background: rgb(254, 254, 254);
+    color: rgb(0, 0, 0);
+}
+
+button{
+    padding: 10px 16px;
+    border: 0;
+    border-radius: 8px;
+    border: 2px solid;
+    cursor: pointer;
+}
+input {
+    width: 100%;
+    padding: 10px;
+    margin: 8px 0 12px;
+}
+
+.output {
+    margin-top: 16px;
+    font-weight: bold;
+}
+
+.dark-card{
+    background:rgb(86, 74, 51);
+    color: white;
+}
