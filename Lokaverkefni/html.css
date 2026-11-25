@@ -47,3 +47,28 @@ body{
     color: rgb(255, 255, 255);
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+
+button{
+    background-color: black;
+    font-size: 15px;
+    color: white;
+    padding: 6px;
+    border-color: rgb(248, 16, 16);
+    border-radius: 5px;
+}
+
+.lightmodeTakki{
+    background-color: rgb(204, 204, 204);
+    color: black;
+    border-color: black;
+}
+
+.lightmode2 {
+    background-color: rgb(204, 204, 204) !important;
+    color: black;
+}
+
+.lightmode {
+    background-color: white !important;
+    color: black;
+}
